@@ -31,6 +31,7 @@ export const Navbar = (props) => {
               </li>
              
             </ul>
+            
           </div>
         </div>
         <div className={`form-check form-switch  mr-200 text-${props.mode==='light'?'dark':'light'}`}>
